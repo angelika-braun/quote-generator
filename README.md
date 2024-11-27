@@ -14,4 +14,3 @@ Quotes are loaded: When the app loads, it fetches an array of quotes.
 Random quote generation: Each time you click the "New Quote" button, a new random quote is displayed.
 
 
-![image](https://github.com/user-attachments/assets/5aa5d215-3fd5-495f-a953-38c999e73ddb)
